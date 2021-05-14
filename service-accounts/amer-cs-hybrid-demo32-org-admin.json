@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "amer-cs-hybrid-demo32",
+  "private_key_id": "d4becae2fb2cec92080faec60f5ddea48790ce33",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDuRLODM/kLMn0T\n5jf2qQ2Mm6BXmNJNj3bt5usiY0OSv/aS7dTxiduBGhZftyFL+zAe/lKmIvDwKtga\nebZ0pAmp/j9SVoaXm5e3Y5rhxxUgc9uE+tMKU1Tw20LvGX0+W+4Yd1L6KrwkqR58\nNDL/Itgm83ua6b6Zixl2nbjML0TGL46zKQBhuQh1+5mozMUj6tz7Ys32NE3f1Rcy\nn/lAWOYwPA+2ZiSaYxhpyhva7tf4hGhyaZGDB3bNeWcun9ePHH9rSPxQ8YkruatR\nUDQI56I7nZizll32Ku7khxVuj2D8nPI4sH+J/IP5XfTE/RN7/ecovSxvMt3/bhdl\n1ZUQ5Lp3AgMBAAECggEAP4qvyuYh3PQWeieTtiKoW96m+KVnNEr1vwUtoMqTG0A5\nXD6z4sROdxQDcnwuk4pF74YIeYjo80uhvRHHcDzM3PpSXb14gFb8s2oLRHnorvJm\n0QRpIqBNjzwSEhyck3RFv12XEeMysJ4vZJUxImxi86RMSuhaLa10WXc/cKiMcUN6\nx8QkzDw2sjfx8huVOxUYtZnBK9qOrIMfguWjXA8tzWQwDAnObYPiU0ZP5F2chQ9p\nm5Bj8zAkyLDVvCJQLE4CVZ9Gsh23abZy1/F/9Tcz9GnOn3IM6DjcercyWmiSL9fO\nbBKVKVuZ7hS9pX7BuM4ZncGABFYJEldBXCZuSwCt7QKBgQD9U4JLl2iIUZ6pO6kJ\n5OiPrNOh+boFq2dydzYr7d/sWjfritv63qQ6qX3IzBlEvuSEAK/7/YQLpiLo/NqF\nHU+/+mlf/ZaO9s3KH1tjQiHLsCEgXEREjqhX3GA7eSb2wcBKCbrIHd4azGGF1NSX\n44psnPLigd3h2jko/lKN6J6XmwKBgQDwyIF4uRqEv+i5aO9zK9Dr2tSl1h6+IUmA\nK/+VJ188Me3EriraVRltFpz/+asxy53COm5XFBjdzwMkmqF/UKwJwonYbsxvjFEx\n52c/9FTJcslvMKnl3utNInLXU++dzgCmKfNJ9pHMgwH9HBRtZNnUHfZWO7lfTYEa\nJnN85sVsVQKBgQCSOVLbWUEwdpRzsQlIucX3sNXUCDb1MNQcgW1WfA8l+YmPv25s\n53i6l70QW6c2RE3ZWCA8/z/qDXLXM6Ta82lmMiADFXiDezicM+9nYvPpA/iLGlcZ\nj5LibEVr7umrw3jAA8+51Wuv4ktkmc5BAkmTmiCk2DuAM5uM6wgx+5UXgwKBgFq/\nduyE9xWpLpESl4yUqvz5UMPf215VNVp1OrKAUEhjmPVTnxsCj76pkyp2cqslzqNx\nWjy/ek++wbR+Avf086IKC+HigHJaNA/W4vcbowj5limt8ZqNVamQni/BlsGm7l+x\n19u8bl7h0VIPzzMbm21yjXEauVbN4yZz73rXjvixAoGBANNBb9qL+JyEPsiEt1cY\nPGqCbz6wO4BSoAXk4QIbcj/3OVqFtOOjW5Jt7guSFOe5wn7iiz11rlWohUfmqM1U\n5m/niqgDJ0dyhMHYZM9DFf2OqaboLwL751UJXC2VZGRnfe6UyRqSIFBev2kCyzrO\njyBXK7JFkA7nUCeRxKh2vIJB\n-----END PRIVATE KEY-----\n",
+  "client_email": "apigee-admin@amer-cs-hybrid-demo32.iam.gserviceaccount.com",
+  "client_id": "110350555918131584850",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/apigee-admin%40amer-cs-hybrid-demo32.iam.gserviceaccount.com"
+}
